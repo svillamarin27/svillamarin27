@@ -1,9 +1,8 @@
 <h1 align="left">Sebastián Camilo Villamarín Rodríguez <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
-- 🔭 Estoy trabajando en [Miniso Colombia](https://www.miniso.co).
-- 🌱 Estoy estudiando en la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+- 🔭 Estoy trabajando en....
 
 <h2 align="left">Estadísticas de GitHub</h2>
 
