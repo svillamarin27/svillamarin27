@@ -2,7 +2,7 @@
 
 Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
-- 🔭 Estoy trabajando en....
+- 🔭 Estoy trabajando en Ernst & Young como Staff - Technology Risk
 
 <h2 align="left">Estadísticas de GitHub</h2>
 
